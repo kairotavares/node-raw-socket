@@ -24,6 +24,7 @@ var Protocol = {
 	1: "ICMP",
 	6: "TCP",
 	17: "UDP",
+	47: "GRE",
 	58: "ICMPv6"
 };
 
